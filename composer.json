@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/product-barcode",
+  "description": "Product Barcode [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-shop/product-barcode-widget": "^1.1.0",
+    "spryker/product-barcode": "^1.1.0",
+    "spryker/product-barcode-gui": "^1.0.0"
+  }
+}
