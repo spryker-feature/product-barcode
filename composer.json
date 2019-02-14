@@ -10,7 +10,7 @@
     "spryker-feature/product": "^201902.0",
     "spryker-shop/product-barcode-widget": "^1.1.0",
     "spryker/product-barcode": "^1.1.0",
-    "spryker/product-barcode-gui": "^1.0.0"
+    "spryker/product-barcode-gui": "^1.1.0"
   },
   "extra": {
     "branch-alias": {
