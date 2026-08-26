@@ -7,13 +7,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-barcode-widget": "^1.1.0",
+        "spryker-shop/product-barcode-widget": "^1.2.0",
         "spryker/product-barcode": "^1.1.0",
         "spryker/product-barcode-gui": "^1.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
